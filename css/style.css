@@ -3,6 +3,11 @@ nav {
     background-color: lightgray;
 }
 
+h1 {
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+}
+
 .container {
     width: 60%;
     margin: 80px auto 80px auto;
@@ -28,8 +33,14 @@ footer {
 
 .img-fluid {
     float: left;
-    padding-top: 10px;
+    padding-top: 20px;
     padding-right: 20px;
+}
+
+/** about me text **/
+
+.text {
+    padding-top: 20px;
 }
 
 /* CONTACT PAGE */
