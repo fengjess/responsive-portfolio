@@ -71,10 +71,15 @@ form {
 /* PORTFOLIO PAGE */
 /** portfolio placeholder images **/
 
+h5 {
+    margin-bottom: 5px;
+}
+
 .img-thumbnail {
-    margin-top: 20px;
+    margin-top: 5px;
     margin-bottom: 20px;
 }
+
 
 
 
